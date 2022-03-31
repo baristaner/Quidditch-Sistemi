@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tree/tree/linde_tak_1"
+	"$model" "1"
+	"$alphatest" "1"
+}
